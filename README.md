@@ -10,7 +10,7 @@ With an aim to create a peaceful place whereby families can not only have a meal
 
 ## Checkout the website
 
-<a href="https://barakfood.netlify.app"> Barak Website </a>
+<a href="https://barakofficial.netlify.app"> - Barak Website </a>
 
 by Alva Spades Global
 
